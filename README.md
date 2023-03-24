@@ -3,3 +3,4 @@
 ###### This is an H6 header (smallest)
 ## summary
 This repository contains all of the note taken by Radia for the lighthouse Lab Web Development Bootcamp.
+Taken by radia https://github.com/Radia731/lighthouse-web-notes.
